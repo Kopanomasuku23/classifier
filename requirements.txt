@@ -10,7 +10,6 @@ Jinja2
 joblib
 MarkupSafe
 numpy
-pickle5
 requests
 scikit-learn
 scipy
